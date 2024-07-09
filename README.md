@@ -6,6 +6,9 @@ Atualmente trabalho como analista de negócios no iFood diretamente com as metod
 ![Fraga Github stats](https://github-readme-stats.vercel.app/api?username=PCoradete&show_icons=true&theme=dracula)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCoradete&hide_progress=true)
+
+
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
@@ -16,3 +19,5 @@ Atualmente trabalho como analista de negócios no iFood diretamente com as metod
   <img align="center" alt="html5" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+
+
